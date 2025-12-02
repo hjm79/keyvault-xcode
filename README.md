@@ -1,7 +1,7 @@
 # KeyVault
 
 <p align="center">
-  <img src="[KeyVault-Swift/Assets.xcassets/AppIcon.appiconset/icon_256x256.png](https://github.com/user-attachments/assets/c8e547fd-922e-4b96-982f-1d46855b0826)" alt="KeyVault Icon" width="128" height="128">
+  <img src="https://github.com/user-attachments/assets/c8e547fd-922e-4b96-982f-1d46855b0826" alt="KeyVault Icon" width="128" height="128">
 </p>
 https://github.com/user-attachments/assets/c8e547fd-922e-4b96-982f-1d46855b0826
 
